@@ -140,7 +140,7 @@ const Contact = () => {
     setFormError('');
 
     emailjs
-      .sendForm('service_yaheacg', 'template_3f17add', form.current, 'Z1iPt2hReKrPXInpm')
+      .sendForm('service_yaheacg', 'template_on1zmvh', form.current, 'Z1iPt2hReKrPXInpm')
       .then(
         (result) => {
           setOpen(true);

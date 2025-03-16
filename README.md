@@ -1,17 +1,18 @@
 # My Portfolio
 Welcome to my portfolio! This project showcases my skills, projects, and experiences as a developer.
 
-### Weblink: [Live Website](https://rishavchanda.netlify.app)
+### Weblink: [Live Website](https://rohit-patra-portfolio.netlify.app/)
+
 ## Some Images:
+<img width="450px;" src="https://github.com/user-attachments/assets/d0e8131b-3220-4052-8e46-da22616eebc9"/>
+<img width="450px;" src="https://github.com/user-attachments/assets/8e4cf999-6dd5-437e-af41-8ef656c2ab0f"/>
+<img width="450px;" src="https://github.com/user-attachments/assets/86a812eb-dbe2-43fc-bbb2-aefd4d076b3a"/>
+<img width="450px;" src="https://github.com/user-attachments/assets/24e99719-b26f-486e-b739-18b0a7df390a"/>
 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 My Portfolio is a React.js application that serves as an online portfolio to showcase my work, skills, and achievements. It provides an overview of my background, displays my projects, and offers a way to contact me.

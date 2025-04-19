@@ -1,15 +1,11 @@
 export const Bio = {
   name: "Rohit Patra",
-  roles: [
-    "Full Stack Developer",
-    "Java Developer",
-    "Programmer",
-  ],
+  roles: ["Full Stack Developer", "Java Developer", "Programmer"],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/RohitPatra-2002",
   resume:
-    "https://drive.google.com/file/d/1GRwRo1VTnGDDBz4MwkKGJs3Y-kmUOvSd/view?usp=sharing",
+    "https://drive.google.com/file/d/12GWDIsIWkVUwJKGBgBEpkvt75O4PcWCv/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/rohit-patra-a32926258/",
   twitter: "https://x.com/RohitPatra_07",
   insta: "https://www.instagram.com/_rohitpatra_/",
@@ -61,11 +57,13 @@ export const skills = [
       },
       {
         name: "Spring Boot",
-        image: "https://img.icons8.com/?size=100&id=90519&format=png&color=000000",
+        image:
+          "https://img.icons8.com/?size=100&id=90519&format=png&color=000000",
       },
       {
         name: "SQL",
-        image: "https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000"
+        image:
+          "https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000",
       },
       {
         name: "MySQL",
@@ -151,13 +149,7 @@ export const experiences = [
     company: "Info Origin Technologies Pvt Ltd",
     date: "June 2023 - Dec 2023",
     desc: "Worked on the frontend of the web application using ReactJS and Material UI. Developed hands-on tasks and projects to enhance practical skills and reinforce theoretical knowledge among participants.",
-    skills: [
-      "ReactJS",
-      "Material UI",
-      "HTML",
-      "CSS",
-      "JavaScript",
-    ],
+    skills: ["ReactJS", "Material UI", "HTML", "CSS", "JavaScript"],
   },
   {
     id: 2,
@@ -166,12 +158,7 @@ export const experiences = [
     company: "Oasis Infobyte",
     date: "Jan 2023 - Feb 2023",
     desc: "Created a Calculator, Tribute Page, and To-Do List app as a part of the internship. Gained hands-on experience with web development",
-    skills: [
-      "ReactJS",
-      "HTML",
-      "CSS",
-      "JavaScript",
-    ],
+    skills: ["ReactJS", "HTML", "CSS", "JavaScript"],
   },
 ];
 
@@ -209,8 +196,7 @@ export const projects = [
   {
     id: 6,
     title: "ToDO Web App",
-    description:
-      "A ToDo App made with HTML, CSS, and JavaScript.",
+    description: "A ToDo App made with HTML, CSS, and JavaScript.",
     image:
       "https://github.com/user-attachments/assets/4576dc7f-e8f5-4a91-b290-4ef0ae97e7db",
     tags: ["HTML", "CSS", "JavaScript"],
@@ -221,8 +207,7 @@ export const projects = [
   {
     id: 5,
     title: "Calculator Web App",
-    description:
-      "A Calculator App made with HTML, CSS and JavaScript.",
+    description: "A Calculator App made with HTML, CSS and JavaScript.",
     image:
       "https://github.com/user-attachments/assets/26441cb4-9f90-4f14-bcaf-12880cccdf57",
     tags: ["HTML", "CSS", "JavaScript"],
@@ -237,16 +222,11 @@ export const projects = [
       "I am thrilled to present a chatbot project developed using React Expo, a powerful framework for building cross-platform mobile applications. The chatbot interface allows users to input messages or queries, while the real-time conversational display ensures a seamless user experience. The integration with the Google Palm API introduces cutting-edge natural language processing and machine learning features, enhancing the chatbot's ability to understand and respond intelligently.",
     image:
       "https://github.com/RohitPatra-2002/Bard-ChatBot/assets/119285694/72c5515c-a870-4646-b01a-dae4633e20ef",
-    tags: [
-      "React Native",
-      "Expo",
-      "Axios",
-      "JavaScript",
-      "Android Studio",
-    ],
+    tags: ["React Native", "Expo", "Axios", "JavaScript", "Android Studio"],
     category: "android app",
     github: "https://github.com/RohitPatra-2002/Bard-ChatBot",
-    webapp: "https://drive.google.com/file/d/1ULD2w9Pul0xMey7CN76nLQbqVE5vsbCz/view",
+    webapp:
+      "https://drive.google.com/file/d/1ULD2w9Pul0xMey7CN76nLQbqVE5vsbCz/view",
   },
   {
     id: 1,
@@ -258,7 +238,8 @@ export const projects = [
     tags: ["React Native", "Expo", "React Native Reanimated", "Android Studio"],
     category: "android app",
     github: "https://github.com/RohitPatra-2002/Login_UI-using-Expo",
-    webapp: "https://drive.google.com/file/d/1Ayis-BmGyfS4ejim0UPMLEY4gDw5ZSlu/view?usp=sharing",
+    webapp:
+      "https://drive.google.com/file/d/1Ayis-BmGyfS4ejim0UPMLEY4gDw5ZSlu/view?usp=sharing",
   },
   {
     id: 2,
@@ -267,14 +248,11 @@ export const projects = [
       "The ToDo app is a mobile application developed using React Native. This app is designed to help users organize their tasks, manage priorities, and enhance productivity on the go.",
     image:
       "https://github.com/RohitPatra-2002/ToDo-App/assets/119285694/42892cd9-e466-4d56-a9de-8b5b9758cc39",
-    tags: [
-      "React Native",
-      "JavaScript",
-      "Android Studio",
-    ],
+    tags: ["React Native", "JavaScript", "Android Studio"],
     category: "android app",
     github: "https://github.com/RohitPatra-2002/ToDo-App",
-    webapp: "https://drive.google.com/file/d/1q0d9PfTLMCwIlQRUnSH0xVMch8IRIgUD/view?usp=sharing",
+    webapp:
+      "https://drive.google.com/file/d/1q0d9PfTLMCwIlQRUnSH0xVMch8IRIgUD/view?usp=sharing",
   },
   {
     id: 3,
@@ -283,7 +261,15 @@ export const projects = [
       "Hey there, This is a ML and NLP based project on sms spam detection. This project will tell you whether the given input msg/sms is spam or ham(not spam). I have created a web application with the help of Streamlit.",
     image:
       "https://github.com/user-attachments/assets/946f4862-129c-4611-aff3-4873ea8e4062",
-    tags: ["Python", "ML", "NLP", "Sklearn", "Pickle", "Streamlit", "Jupyter Notebook"],
+    tags: [
+      "Python",
+      "ML",
+      "NLP",
+      "Sklearn",
+      "Pickle",
+      "Streamlit",
+      "Jupyter Notebook",
+    ],
     category: "machine learning",
     github: "https://github.com/RohitPatra-2002/SMS-Spam-Detection",
     webapp: "https://github.com/RohitPatra-2002/SMS-Spam-Detection",
@@ -297,7 +283,9 @@ export const projects = [
       "https://github.com/user-attachments/assets/10c427c4-3d92-40c8-8549-9595c0d30fe1",
     tags: ["Python", "NLP", "TMDB API", "Jupyter Notebook", "Streamlit"],
     category: "machine learning",
-    github: "https://github.com/RohitPatra-2002/Movie-Recommendation-System/tree/main",
-    webapp: "https://github.com/RohitPatra-2002/Movie-Recommendation-System/tree/main",
+    github:
+      "https://github.com/RohitPatra-2002/Movie-Recommendation-System/tree/main",
+    webapp:
+      "https://github.com/RohitPatra-2002/Movie-Recommendation-System/tree/main",
   },
 ];
